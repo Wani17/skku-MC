@@ -1,1 +1,0 @@
-# skku_multicore
