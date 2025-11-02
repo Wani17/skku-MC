@@ -7,8 +7,6 @@ HNSW (Hierarchical Navigable Small World) is a graph-based index used for approx
 ### Build: #2 / 55
 Computed with 1.19299s.
 
----
-
 31 people were succeeded.
   - Q3: 5.36342s
   - Q2: 143.814s
@@ -16,8 +14,6 @@ Computed with 1.19299s.
 
 ### Query: #2 / 55
 Computed with 0.056654s.
-
----
 
 31 people were succeeded.
   - Q3: 0.183218s

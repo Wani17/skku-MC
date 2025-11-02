@@ -6,9 +6,9 @@ Create a simple distributed rwho: define an RPC interface, generate stubs with r
 ## Grade
 100/100
 
-- No time was measured; only correctness.
+No time was measured; only correctness.
 
-- 47people were succeded.
+47 people were succeded.
 
 ### Runtime Environment
 - Tested with 1M queries with specified workload.

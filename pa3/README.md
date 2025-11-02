@@ -7,8 +7,6 @@ Implement a parallel radix sort for variable-length strings on the GPU; use the 
 ### #6 / 55
 Computed with 1.898s.
 
----
-
 35 people were succeeded.
   - Q3: 4.572s
   - Q2: 8.075s

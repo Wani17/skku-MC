@@ -7,8 +7,6 @@ Build a concurrent SkipList key-value store driven by a master/worker task queue
 ### #1 / 55
 Computed with 0.721s.
 
----
-
 18 people were succeeded.
   - Q3: 2.050s
   - Q2: 5.630s
