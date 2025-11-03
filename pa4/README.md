@@ -11,7 +11,6 @@ No time was measured; only correctness.
 47 people were succeded.
 
 ### Runtime Environment
-- Tested with 1M queries with specified workload.
 - Intel Xeon Gold 5115
 - NVIDIA Tesla V100
 
